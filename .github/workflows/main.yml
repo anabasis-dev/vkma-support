@@ -1,0 +1,4 @@
+name: Deploy
+jobs: 
+  name: Run
+  runs-on: ubuntu-latest
